@@ -5,6 +5,11 @@ LR          : 5e-4 (0.0005)
 optimizer   : AdamW
 BATCH SIZE  : 32
 INPUT SHAPE : (240, 240, 3)
+
+| 변경점 |
+(1) 신경망을 efficientnet_b1_prune에서 efficientnet_b1으로 변경
+(2) 옵티마이저를 Adam에서 AdamW로 변경
+(3) 배치사이즈 변경
 -------------------------------------------
 
 [1 / 100]
