@@ -1,0 +1,79 @@
+[1 / 20]
+Train Accuracy : 0.361 | Train Loss : 1.380
+Valid Accuracy : 0.396 | Valid Loss : 1.313
+
+[2 / 20]
+Train Accuracy : 0.474 | Train Loss : 1.188
+Valid Accuracy : 0.450 | Valid Loss : 1.203
+
+[3 / 20]
+Train Accuracy : 0.562 | Train Loss : 1.035
+Valid Accuracy : 0.472 | Valid Loss : 1.197
+
+[4 / 20]
+Train Accuracy : 0.638 | Train Loss : 0.887
+Valid Accuracy : 0.492 | Valid Loss : 1.211
+
+[5 / 20]
+Train Accuracy : 0.706 | Train Loss : 0.732
+Valid Accuracy : 0.521 | Valid Loss : 1.212
+
+[6 / 20]
+Train Accuracy : 0.788 | Train Loss : 0.581
+Valid Accuracy : 0.544 | Valid Loss : 1.199
+
+[7 / 20]
+Train Accuracy : 0.835 | Train Loss : 0.442
+Valid Accuracy : 0.547 | Valid Loss : 1.277
+
+[8 / 20]
+Train Accuracy : 0.864 | Train Loss : 0.374
+Valid Accuracy : 0.530 | Valid Loss : 1.390
+
+[9 / 20]
+Train Accuracy : 0.904 | Train Loss : 0.276
+Valid Accuracy : 0.564 | Valid Loss : 1.352
+
+[10 / 20]
+Train Accuracy : 0.915 | Train Loss : 0.236
+Valid Accuracy : 0.585 | Valid Loss : 1.430
+
+[11 / 20]
+Train Accuracy : 0.927 | Train Loss : 0.195
+Valid Accuracy : 0.590 | Valid Loss : 1.433
+
+[12 / 20]
+Train Accuracy : 0.928 | Train Loss : 0.189
+Valid Accuracy : 0.604 | Valid Loss : 1.420
+
+[13 / 20]
+Train Accuracy : 0.942 | Train Loss : 0.156
+Valid Accuracy : 0.584 | Valid Loss : 1.467
+
+[14 / 20]
+Train Accuracy : 0.941 | Train Loss : 0.160
+Valid Accuracy : 0.607 | Valid Loss : 1.406
+
+[15 / 20]
+Train Accuracy : 0.954 | Train Loss : 0.127
+Valid Accuracy : 0.612 | Valid Loss : 1.428
+
+[16 / 20]
+Train Accuracy : 0.963 | Train Loss : 0.100
+Valid Accuracy : 0.617 | Valid Loss : 1.481
+
+[17 / 20]
+Train Accuracy : 0.968 | Train Loss : 0.090
+Valid Accuracy : 0.618 | Valid Loss : 1.549
+
+[18 / 20]
+Train Accuracy : 0.963 | Train Loss : 0.103
+Valid Accuracy : 0.613 | Valid Loss : 1.475
+
+[19 / 20]
+Train Accuracy : 0.966 | Train Loss : 0.095
+Valid Accuracy : 0.617 | Valid Loss : 1.603
+
+[20 / 20]
+Train Accuracy : 0.965 | Train Loss : 0.095
+Valid Accuracy : 0.629 | Valid Loss : 1.495
