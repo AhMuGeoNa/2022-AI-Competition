@@ -5,6 +5,9 @@ LR          : 5e-4 (0.0005)
 optimizer   : AdamW
 BATCH SIZE  : 32
 INPUT SHAPE : (240, 240, 3)
+
+| 변경점 |
+(1) 데이터 셋 구성과정에서 transform 부분에 이미지 Normalize 시키는 부분 추가
 -------------------------------------------
 
 [1 / 100]
