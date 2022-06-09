@@ -1,3 +1,11 @@
+| 하이퍼 파라미터 |
+EPOCH       : 30
+LR          : 1e-3 (0.001)
+optimizer   : Adam
+BATCH SIZE  : 64
+INPUT SHAPE : (240, 240, 3)
+-------------------------------------------
+
 [1 / 30]
 Train Accuracy : 0.356 | Train Loss : 1.378
 Valid Accuracy : 0.407 | Valid Loss : 1.292
