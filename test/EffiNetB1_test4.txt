@@ -1,0 +1,146 @@
+| 하이퍼 파라미터 |
+신경망      : efficientnet_b1
+EPOCH       : 100
+LR          : 5e-4 (0.0005)
+optimizer   : AdamW
+BATCH SIZE  : 32
+INPUT SHAPE : (240, 240, 3)
+-------------------------------------------
+
+[1 / 100]
+Train Accuracy : 0.387 | Train Loss : 1.614
+Valid Accuracy : 0.436 | Valid Loss : 1.205
+
+[2 / 100]
+Train Accuracy : 0.536 | Train Loss : 1.098
+Valid Accuracy : 0.516 | Valid Loss : 1.113
+
+[3 / 100]
+Train Accuracy : 0.638 | Train Loss : 0.903
+Valid Accuracy : 0.548 | Valid Loss : 1.055
+
+[4 / 100]
+Train Accuracy : 0.726 | Train Loss : 0.686
+Valid Accuracy : 0.577 | Valid Loss : 1.117
+
+[5 / 100]
+Train Accuracy : 0.794 | Train Loss : 0.546
+Valid Accuracy : 0.610 | Valid Loss : 1.047
+
+[6 / 100]
+Train Accuracy : 0.846 | Train Loss : 0.409
+Valid Accuracy : 0.644 | Valid Loss : 1.055
+
+[7 / 100]
+Train Accuracy : 0.869 | Train Loss : 0.340
+Valid Accuracy : 0.644 | Valid Loss : 1.036
+
+[8 / 100]
+Train Accuracy : 0.915 | Train Loss : 0.229
+Valid Accuracy : 0.702 | Valid Loss : 0.951
+
+[9 / 100]
+Train Accuracy : 0.923 | Train Loss : 0.205
+Valid Accuracy : 0.681 | Valid Loss : 1.025
+
+[10 / 100]
+Train Accuracy : 0.930 | Train Loss : 0.191
+Valid Accuracy : 0.692 | Valid Loss : 1.105
+
+[11 / 100]
+Train Accuracy : 0.932 | Train Loss : 0.178
+Valid Accuracy : 0.679 | Valid Loss : 1.126
+
+[12 / 100]
+Train Accuracy : 0.938 | Train Loss : 0.165
+Valid Accuracy : 0.704 | Valid Loss : 1.105
+
+[13 / 100]
+Train Accuracy : 0.952 | Train Loss : 0.126
+Valid Accuracy : 0.697 | Valid Loss : 1.145
+
+[14 / 100]
+Train Accuracy : 0.954 | Train Loss : 0.120
+Valid Accuracy : 0.696 | Valid Loss : 1.154
+
+[15 / 100]
+Train Accuracy : 0.951 | Train Loss : 0.123
+Valid Accuracy : 0.706 | Valid Loss : 1.152
+
+[16 / 100]
+Train Accuracy : 0.950 | Train Loss : 0.133
+Valid Accuracy : 0.712 | Valid Loss : 1.112
+
+[17 / 100]
+Train Accuracy : 0.962 | Train Loss : 0.094
+Valid Accuracy : 0.714 | Valid Loss : 1.187
+
+[18 / 100]
+Train Accuracy : 0.961 | Train Loss : 0.104
+Valid Accuracy : 0.719 | Valid Loss : 1.213
+
+[19 / 100]
+Train Accuracy : 0.959 | Train Loss : 0.102
+Valid Accuracy : 0.718 | Valid Loss : 1.201
+
+[20 / 100]
+Train Accuracy : 0.960 | Train Loss : 0.112
+Valid Accuracy : 0.737 | Valid Loss : 1.137
+
+[21 / 100]
+Train Accuracy : 0.974 | Train Loss : 0.069
+Valid Accuracy : 0.729 | Valid Loss : 1.142
+
+[22 / 100]
+Train Accuracy : 0.967 | Train Loss : 0.090
+Valid Accuracy : 0.722 | Valid Loss : 1.218
+
+[23 / 100]
+Train Accuracy : 0.969 | Train Loss : 0.085
+Valid Accuracy : 0.717 | Valid Loss : 1.217
+
+[24 / 100]
+Train Accuracy : 0.971 | Train Loss : 0.078
+Valid Accuracy : 0.736 | Valid Loss : 1.138
+
+[25 / 100]
+Train Accuracy : 0.972 | Train Loss : 0.081
+Valid Accuracy : 0.716 | Valid Loss : 1.271
+
+[26 / 100]
+Train Accuracy : 0.963 | Train Loss : 0.106
+Valid Accuracy : 0.721 | Valid Loss : 1.214
+
+[27 / 100]
+Train Accuracy : 0.971 | Train Loss : 0.071
+Valid Accuracy : 0.723 | Valid Loss : 1.184
+
+[28 / 100]
+Train Accuracy : 0.971 | Train Loss : 0.079
+Valid Accuracy : 0.731 | Valid Loss : 1.174
+
+[29 / 100]
+Train Accuracy : 0.971 | Train Loss : 0.077
+Valid Accuracy : 0.712 | Valid Loss : 1.283
+
+[30 / 100]
+Train Accuracy : 0.968 | Train Loss : 0.089
+Valid Accuracy : 0.718 | Valid Loss : 1.192
+
+Training Stopped by Early stopping counter : 10
+
+---------------------------------------------
+| 모델 성능 지표 |
+Test Accuracy : 0.739
+
+              precision    recall  f1-score   support
+
+         1++       0.67      0.77      0.72       440
+          1+       0.71      0.61      0.65       427
+           1       0.70      0.66      0.68       427
+           2       0.79      0.76      0.78       418
+           3       0.87      0.96      0.91       288
+
+    accuracy                           0.74      2000
+   macro avg       0.75      0.75      0.75      2000
+weighted avg       0.74      0.74      0.74      2000
