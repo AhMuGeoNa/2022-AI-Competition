@@ -1,3 +1,11 @@
+| 하이퍼 파라미터 |
+EPOCH       : 20
+LR          : 5e-4 (0.0005)
+optimizer   : Adam
+BATCH SIZE  : 64
+INPUT SHAPE : (240, 240, 3)
+-------------------------------------------
+
 [1 / 20]
 Train Accuracy : 0.361 | Train Loss : 1.380
 Valid Accuracy : 0.396 | Valid Loss : 1.313
@@ -77,3 +85,19 @@ Valid Accuracy : 0.617 | Valid Loss : 1.603
 [20 / 20]
 Train Accuracy : 0.965 | Train Loss : 0.095
 Valid Accuracy : 0.629 | Valid Loss : 1.495
+
+
+---------------------------------------------
+| 모델 성능 지표 |
+Test Accuracy : 0.643
+
+         1++       0.56      0.58      0.57       440
+          1+       0.56      0.55      0.56       427
+           1       0.57      0.56      0.56       427
+           2       0.75      0.70      0.72       418
+           3       0.85      0.92      0.88       288
+
+    accuracy                           0.64      2000
+   macro avg       0.66      0.66      0.66      2000
+weighted avg       0.64      0.64      0.64      2000
+
