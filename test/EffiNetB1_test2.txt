@@ -1,4 +1,5 @@
 | 하이퍼 파라미터 |
+신경망      : efficientnet_b1_pruned
 EPOCH       : 20
 LR          : 5e-4 (0.0005)
 optimizer   : Adam
