@@ -127,7 +127,7 @@ Valid Accuracy : 0.715 | Valid Loss : 1.213
 Train Accuracy : 0.968 | Train Loss : 0.085
 Valid Accuracy : 0.717 | Valid Loss : 1.155
 
-Early stopping counter : 5
+Training Stopped by Early stopping counter : 5
 
 ---------------------------------------------
 | 모델 성능 지표 |
