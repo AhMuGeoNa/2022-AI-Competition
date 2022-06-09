@@ -107,4 +107,4 @@ Valid Accuracy : 0.652 | Valid Loss : 1.473
 Train Accuracy : 0.972 | Train Loss : 0.080
 Valid Accuracy : 0.665 | Valid Loss : 1.453
 
-Early stopping counter : 5
+Training Stopped by Early stopping counter : 5
