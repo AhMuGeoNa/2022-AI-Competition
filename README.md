@@ -8,3 +8,8 @@
 * 오인종
 * 서준호
 * 김종민
+
+### 전처리된 이미지
+* 히스토그램 평활화
+http://dove-nest.duckdns.org/
+homes/ahmugeona/beaf-dataset/preprocessed_data 파일
